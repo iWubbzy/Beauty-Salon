@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:9c5a4ca882c923393240cba504376984:9b3fd048e2a3bac6494b26eb354fdadb:6123a1639fe4f9bf3b297c0d3a5ba346$ -->
+<TextureAtlas imagePath="Balloon1x.png">
+    <SubTexture name="Balloon_01" x="186" y="1486" width="182" height="208" frameX="-1" frameY="-1" frameWidth="184" frameHeight="210"/>
+    <SubTexture name="Balloon_02" x="2" y="1380" width="182" height="208" frameX="-1" frameY="-1" frameWidth="184" frameHeight="210"/>
+    <SubTexture name="Balloon_03" x="298" y="1276" width="182" height="208" frameX="-1" frameY="-1" frameWidth="184" frameHeight="210"/>
+    <SubTexture name="Balloon_04" x="298" y="1066" width="182" height="208" frameX="-1" frameY="-1" frameWidth="184" frameHeight="210"/>
+    <SubTexture name="Balloon_05" x="370" y="1486" width="116" height="100" frameX="-203" frameY="-267" frameWidth="512" frameHeight="586"/>
+    <SubTexture name="Balloon_06" x="2" y="1590" width="164" height="158" frameX="-179" frameY="-239" frameWidth="512" frameHeight="586"/>
+    <SubTexture name="Balloon_07" x="2" y="1066" width="294" height="312" frameX="-111" frameY="-166" frameWidth="512" frameHeight="586"/>
+    <SubTexture name="Balloon_08" x="2" y="576" width="412" height="488" frameX="-52" frameY="-66" frameWidth="512" frameHeight="586"/>
+    <SubTexture name="Balloon_09" x="2" y="2" width="488" height="572" frameX="-11" frameY="-7" frameWidth="512" frameHeight="586"/>
+    <SubTexture name="Balloon_10" x="486" y="618" width="1" height="1" frameX="0" frameY="0" frameWidth="512" frameHeight="586"/>
+    <SubTexture name="Confetti01" x="462" y="576" width="28" height="40" frameX="-1" frameY="0" frameWidth="30" frameHeight="40"/>
+    <SubTexture name="Confetti02" x="416" y="618" width="44" height="40" frameX="-1" frameY="-3" frameWidth="46" frameHeight="46"/>
+    <SubTexture name="Confetti03" x="416" y="690" width="44" height="28" frameX="-3" frameY="-1" frameWidth="50" frameHeight="30"/>
+    <SubTexture name="Confetti04" x="416" y="576" width="44" height="40" frameX="-1" frameY="-1" frameWidth="46" frameHeight="42"/>
+    <SubTexture name="Confetti05" x="416" y="660" width="44" height="28" frameX="-1" frameY="-1" frameWidth="46" frameHeight="30"/>
+    <SubTexture name="Confetti06" x="462" y="618" width="12" height="12"/>
+    <SubTexture name="Confetti07" x="476" y="618" width="8" height="8" frameX="-1" frameY="-1" frameWidth="10" frameHeight="10"/>
+</TextureAtlas>

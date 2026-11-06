@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:57d9d824e25980829e6e3f7270285c40:1/1$ -->
+<TextureAtlas imagePath="MenuAssets.png">
+    <SubTexture name="AppsText" x="76" y="932" width="110" height="53" frameX="-2" frameY="-4" frameWidth="116" frameHeight="57"/>
+    <SubTexture name="Icon_Apps" x="76" y="858" width="72" height="72"/>
+    <SubTexture name="Icon_Apps_Push" x="91" y="695" width="72" height="72"/>
+    <SubTexture name="Icon_Options" x="76" y="784" width="72" height="72"/>
+    <SubTexture name="Icon_Options_Push" x="2" y="932" width="72" height="72"/>
+    <SubTexture name="Icon_Parents" x="2" y="858" width="72" height="72"/>
+    <SubTexture name="Icon_Parents_Push" x="2" y="784" width="72" height="72"/>
+    <SubTexture name="OptionsText" x="2" y="627" width="171" height="57"/>
+    <SubTexture name="ParentsText" x="150" y="769" width="168" height="45" frameX="0" frameY="-4" frameWidth="168" frameHeight="57"/>
+    <SubTexture name="Play" x="661" y="349" width="347" height="344"/>
+    <SubTexture name="Play_Push" x="661" y="2" width="347" height="345"/>
+    <SubTexture name="Settings" x="2" y="2" width="657" height="539" frameX="-15" frameY="-2" frameWidth="681" frameHeight="541"/>
+    <SubTexture name="Slider" x="2" y="695" width="87" height="87"/>
+    <SubTexture name="ok" x="2" y="543" width="246" height="82"/>
+</TextureAtlas>

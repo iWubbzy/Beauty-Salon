@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:b9883d633b151bfee0f9cfe63e5b272c:1/1$ -->
+<TextureAtlas imagePath="nailRoomAssets.png">
+    <SubTexture name="NailRoom_ArmRobot" x="2" y="772" width="1015" height="196" frameX="-5" frameY="-2" frameWidth="1025" frameHeight="200"/>
+    <SubTexture name="NailRoom_BG" x="2" y="2" width="1366" height="768"/>
+    <SubTexture name="NailRoom_Clipper01" x="1784" y="2" width="223" height="216" frameX="-9" frameY="-1" frameWidth="235" frameHeight="220"/>
+    <SubTexture name="NailRoom_Clipper02" x="1784" y="220" width="223" height="202" frameX="-8" frameY="-13" frameWidth="235" frameHeight="220"/>
+    <SubTexture name="NailRoom_Clipper03" x="1784" y="424" width="223" height="188" frameX="-9" frameY="-25" frameWidth="235" frameHeight="220"/>
+    <SubTexture name="NailRoom_Clipper04" x="1784" y="614" width="223" height="174" frameX="-9" frameY="-36" frameWidth="235" frameHeight="220"/>
+    <SubTexture name="NailRoom_File" x="1019" y="920" width="245" height="102"/>
+    <SubTexture name="NailRoom_Nailpolish_BlueBottle" x="1370" y="2" width="110" height="111" frameX="0" frameY="-2" frameWidth="110" frameHeight="115"/>
+    <SubTexture name="NailRoom_Nailpolish_BlueBrush" x="1370" y="275" width="53" height="158" frameX="-1" frameY="-1" frameWidth="55" frameHeight="160"/>
+    <SubTexture name="NailRoom_Nailpolish_Cover" x="1425" y="275" width="53" height="116" frameX="-1" frameY="-1" frameWidth="55" frameHeight="160"/>
+    <SubTexture name="NailRoom_Nailpolish_GreenBottle" x="1896" y="903" width="110" height="111" frameX="0" frameY="-2" frameWidth="110" frameHeight="115"/>
+    <SubTexture name="NailRoom_Nailpolish_GreenBrush" x="1480" y="162" width="53" height="158" frameX="-1" frameY="-1" frameWidth="55" frameHeight="160"/>
+    <SubTexture name="NailRoom_Nailpolish_OrangeBottle" x="1896" y="790" width="110" height="111" frameX="0" frameY="-2" frameWidth="110" frameHeight="115"/>
+    <SubTexture name="NailRoom_Nailpolish_OrangeBrush" x="1425" y="115" width="53" height="158" frameX="-1" frameY="-1" frameWidth="55" frameHeight="160"/>
+    <SubTexture name="NailRoom_Nailpolish_PinkBottle" x="1784" y="903" width="110" height="111" frameX="0" frameY="-2" frameWidth="110" frameHeight="115"/>
+    <SubTexture name="NailRoom_Nailpolish_PinkBrush" x="1370" y="115" width="53" height="158" frameX="-1" frameY="-1" frameWidth="55" frameHeight="160"/>
+    <SubTexture name="NailRoom_Nailpolish_PurpleBottle" x="1784" y="790" width="110" height="111" frameX="0" frameY="-2" frameWidth="110" frameHeight="115"/>
+    <SubTexture name="NailRoom_Nailpolish_PurpleBrush" x="1482" y="2" width="53" height="158" frameX="-1" frameY="-1" frameWidth="55" frameHeight="160"/>
+    <SubTexture name="NailRoom_Sticker_0001" x="106" y="970" width="46" height="40" frameX="-7" frameY="-4" frameWidth="60" frameHeight="50"/>
+    <SubTexture name="NailRoom_Sticker_0002" x="2" y="970" width="54" height="36" frameX="-3" frameY="-6" frameWidth="60" frameHeight="50"/>
+    <SubTexture name="NailRoom_Sticker_0003" x="476" y="970" width="42" height="36" frameX="-9" frameY="-4" frameWidth="60" frameHeight="50"/>
+    <SubTexture name="NailRoom_Sticker_0004" x="432" y="970" width="42" height="38" frameX="-10" frameY="-5" frameWidth="60" frameHeight="50"/>
+    <SubTexture name="NailRoom_Sticker_0005" x="618" y="970" width="34" height="40" frameX="-11" frameY="-4" frameWidth="60" frameHeight="50"/>
+    <SubTexture name="NailRoom_Sticker_0006" x="520" y="970" width="50" height="30" frameX="-5" frameY="-6" frameWidth="60" frameHeight="50"/>
+    <SubTexture name="NailRoom_Sticker_0007" x="258" y="970" width="42" height="40" frameX="-9" frameY="-4" frameWidth="60" frameHeight="50"/>
+    <SubTexture name="NailRoom_Sticker_0008" x="894" y="970" width="20" height="36" frameX="-19" frameY="-7" frameWidth="60" frameHeight="50"/>
+    <SubTexture name="NailRoom_Sticker_0009" x="838" y="970" width="28" height="32" frameX="-16" frameY="-9" frameWidth="60" frameHeight="50"/>
+    <SubTexture name="NailRoom_Sticker_0010" x="812" y="970" width="24" height="42" frameX="-18" frameY="-4" frameWidth="60" frameHeight="50"/>
+    <SubTexture name="NailRoom_Sticker_0011" x="778" y="970" width="32" height="36" frameX="-14" frameY="-7" frameWidth="60" frameHeight="50"/>
+    <SubTexture name="NailRoom_Sticker_0012" x="572" y="970" width="44" height="34" frameX="-7" frameY="-10" frameWidth="60" frameHeight="50"/>
+    <SubTexture name="NailRoom_Sticker_0013" x="654" y="998" width="42" height="22" frameX="-8" frameY="-14" frameWidth="60" frameHeight="50"/>
+    <SubTexture name="NailRoom_Sticker_0014" x="868" y="970" width="24" height="32" frameX="-18" frameY="-7" frameWidth="60" frameHeight="50"/>
+    <SubTexture name="NailRoom_Sticker_0015" x="742" y="970" width="34" height="34" frameX="-11" frameY="-7" frameWidth="60" frameHeight="50"/>
+    <SubTexture name="NailRoom_Sticker_0016" x="390" y="970" width="40" height="40" frameX="-10" frameY="-5" frameWidth="60" frameHeight="50"/>
+    <SubTexture name="NailRoom_Sticker_0017" x="58" y="970" width="46" height="42" frameX="-7" frameY="-4" frameWidth="60" frameHeight="50"/>
+    <SubTexture name="NailRoom_Sticker_0018" x="302" y="970" width="44" height="38" frameX="-7" frameY="-6" frameWidth="60" frameHeight="50"/>
+    <SubTexture name="NailRoom_Sticker_0019" x="214" y="970" width="42" height="40" frameX="-9" frameY="-5" frameWidth="60" frameHeight="50"/>
+    <SubTexture name="NailRoom_Sticker_0020" x="348" y="970" width="40" height="40" frameX="-10" frameY="-5" frameWidth="60" frameHeight="50"/>
+    <SubTexture name="NailRoom_Sticker_0021" x="654" y="970" width="50" height="26" frameX="-5" frameY="-10" frameWidth="60" frameHeight="50"/>
+    <SubTexture name="NailRoom_Sticker_0022" x="154" y="970" width="58" height="30" frameX="-1" frameY="-9" frameWidth="60" frameHeight="50"/>
+    <SubTexture name="NailRoom_Sticker_0023" x="706" y="970" width="34" height="38" frameX="-12" frameY="-5" frameWidth="60" frameHeight="50"/>
+    <SubTexture name="Slider_Background" x="1019" y="772" width="763" height="146" frameX="0" frameY="-1" frameWidth="763" frameHeight="148"/>
+</TextureAtlas>

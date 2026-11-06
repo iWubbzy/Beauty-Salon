@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:058ad7b58cd6b1dfa288d3e541cbfd16:5e194bb0c9c3af37d3d684351967b143:6e264d287736ddcdb8d334cb149c207f$ -->
+<TextureAtlas imagePath="SpaAssets.png">
+    <SubTexture name="ARM" x="622" y="454" width="1026" height="199" frameX="-2" frameY="-3" frameWidth="1030" frameHeight="205"/>
+    <SubTexture name="CartoonCream" x="128" y="929" width="65" height="65"/>
+    <SubTexture name="CreamBlob" x="742" y="175" width="120" height="132"/>
+    <SubTexture name="POWDER_BRUSH" x="534" y="2" width="134" height="232" frameX="-18" frameY="-8" frameWidth="160" frameHeight="250"/>
+    <SubTexture name="Razor" x="534" y="236" width="118" height="216" frameX="-1" frameY="-2" frameWidth="120" frameHeight="220"/>
+    <SubTexture name="RazorBrush" x="195" y="917" width="99" height="61"/>
+    <SubTexture name="SPA_FACEMASK_ARMwipe" x="132" y="660" width="1085" height="255"/>
+    <SubTexture name="SPA_FACEMASK_BLOB" x="2" y="929" width="124" height="68" frameX="-3" frameY="-1" frameWidth="130" frameHeight="70"/>
+    <SubTexture name="SPA_FACEMASK_CHAIR" x="2" y="2" width="530" height="656" frameX="-2" frameY="-2" frameWidth="534" frameHeight="660"/>
+    <SubTexture name="SPA_FACEMASK_CUCUMBER" x="670" y="2" width="171" height="171" frameX="-2" frameY="-2" frameWidth="175" frameHeight="175"/>
+    <SubTexture name="Shaving_Cream" x="2" y="660" width="128" height="267" frameX="-6" frameY="-4" frameWidth="140" frameHeight="275"/>
+    <SubTexture name="Stick_01" x="742" y="309" width="162" height="116" frameX="-1" frameY="0" frameWidth="180" frameHeight="120"/>
+    <SubTexture name="Tweezers_01" x="654" y="236" width="86" height="193" frameX="-2" frameY="-1" frameWidth="90" frameHeight="195"/>
+    <SubTexture name="Tweezers_02" x="534" y="454" width="86" height="200" frameX="-2" frameY="0" frameWidth="90" frameHeight="200"/>
+    <SubTexture name="creamPart1" x="2" y="999" width="33" height="23"/>
+    <SubTexture name="creamPart2" x="67" y="999" width="28" height="21"/>
+    <SubTexture name="creamPart3" x="37" y="999" width="28" height="21"/>
+</TextureAtlas>

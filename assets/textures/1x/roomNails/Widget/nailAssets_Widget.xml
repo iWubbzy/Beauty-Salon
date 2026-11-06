@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:2b210e889bd0523c546ac7827390fb88:62df5845533e4a681e12849a491115eb:cd0de77e277376797392ee2840e9b3c6$ -->
+<TextureAtlas imagePath="nailAssets_Widget.png">
+    <SubTexture name="NailRoom_ArmWidget" x="2" y="2" width="648" height="394" frameX="0" frameY="-6" frameWidth="654" frameHeight="410"/>
+    <SubTexture name="NailRoom_Widget_Nail01_Long" x="61" y="398" width="94" height="68" frameX="-3" frameY="-7" frameWidth="100" frameHeight="80"/>
+    <SubTexture name="NailRoom_Widget_Nail01_Shard" x="667" y="58" width="68" height="54" frameX="-3" frameY="-6" frameWidth="100" frameHeight="80"/>
+    <SubTexture name="NailRoom_Widget_Nail01_Shine" x="323" y="398" width="68" height="60" frameX="-29" frameY="-15" frameWidth="100" frameHeight="80"/>
+    <SubTexture name="NailRoom_Widget_Nail01_ShineOnly" x="83" y="468" width="28" height="34" frameX="-33" frameY="-31" frameWidth="100" frameHeight="80"/>
+    <SubTexture name="NailRoom_Widget_Nail01_Short" x="253" y="398" width="68" height="60" frameX="-29" frameY="-15" frameWidth="100" frameHeight="80"/>
+    <SubTexture name="NailRoom_Widget_Nail02_Long" x="157" y="398" width="94" height="66" frameX="-2" frameY="-7" frameWidth="100" frameHeight="80"/>
+    <SubTexture name="NailRoom_Widget_Nail02_Shard" x="812" y="2" width="62" height="56" frameX="-34" frameY="-7" frameWidth="100" frameHeight="80"/>
+    <SubTexture name="NailRoom_Widget_Nail02_Shine" x="740" y="2" width="70" height="56" frameX="-2" frameY="-17" frameWidth="100" frameHeight="80"/>
+    <SubTexture name="NailRoom_Widget_Nail02_ShineOnly" x="39" y="480" width="42" height="12" frameX="-19" frameY="-21" frameWidth="100" frameHeight="80"/>
+    <SubTexture name="NailRoom_Widget_Nail02_Short" x="594" y="398" width="70" height="56" frameX="-2" frameY="-17" frameWidth="100" frameHeight="80"/>
+    <SubTexture name="NailRoom_Widget_Nail03_Long" x="491" y="398" width="101" height="58" frameX="0" frameY="-3" frameWidth="105" frameHeight="70"/>
+    <SubTexture name="NailRoom_Widget_Nail03_Shard" x="253" y="460" width="67" height="50" frameX="-34" frameY="-11" frameWidth="105" frameHeight="70"/>
+    <SubTexture name="NailRoom_Widget_Nail03_Shine" x="667" y="2" width="71" height="54" frameX="-1" frameY="-4" frameWidth="105" frameHeight="70"/>
+    <SubTexture name="NailRoom_Widget_Nail03_ShineOnly" x="2" y="480" width="35" height="28" frameX="-31" frameY="-11" frameWidth="105" frameHeight="70"/>
+    <SubTexture name="NailRoom_Widget_Nail03_Short" x="594" y="456" width="71" height="54" frameX="-1" frameY="-4" frameWidth="105" frameHeight="70"/>
+    <SubTexture name="NailRoom_Widget_Nail04_Long" x="2" y="398" width="57" height="80" frameX="-2" frameY="0" frameWidth="65" frameHeight="80"/>
+    <SubTexture name="NailRoom_Widget_Nail04_Shard" x="491" y="458" width="49" height="52" frameX="-10" frameY="-27" frameWidth="65" frameHeight="80"/>
+    <SubTexture name="NailRoom_Widget_Nail04_Shine" x="442" y="398" width="47" height="60" frameX="-3" frameY="0" frameWidth="65" frameHeight="80"/>
+    <SubTexture name="NailRoom_Widget_Nail04_ShineOnly" x="113" y="468" width="9" height="34" frameX="-37" frameY="-15" frameWidth="65" frameHeight="80"/>
+    <SubTexture name="NailRoom_Widget_Nail04_Short" x="393" y="398" width="47" height="60" frameX="-3" frameY="0" frameWidth="65" frameHeight="80"/>
+</TextureAtlas>

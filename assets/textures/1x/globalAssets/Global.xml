@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:6b945d3e51f0357df7c19b25e8c6560b:1/1$ -->
+<TextureAtlas imagePath="Global.png">
+    <SubTexture name="Arrow_Left_Normal" x="114" y="125" width="110" height="121" frameX="-3" frameY="-4" frameWidth="116" frameHeight="129"/>
+    <SubTexture name="Arrow_Left_Over" x="114" y="2" width="110" height="121" frameX="-3" frameY="-4" frameWidth="116" frameHeight="129"/>
+    <SubTexture name="Arrow_Right_Normal" x="2" y="125" width="110" height="121" frameX="-3" frameY="-4" frameWidth="116" frameHeight="129"/>
+    <SubTexture name="Arrow_Right_Over" x="2" y="2" width="110" height="121" frameX="-3" frameY="-4" frameWidth="116" frameHeight="129"/>
+</TextureAtlas>

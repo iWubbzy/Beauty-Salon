@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<title>Wubbzy's Beauty Salon</title>
+<link rel="icon" href="assets/Icons_Android/Icon0096.png">
+<style>
+  html, body { margin: 0; height: 100%; background: #000; overflow: hidden; touch-action: none; -webkit-user-select: none; user-select: none; }
+  #stage { position: absolute; display: block; touch-action: none; }
+  #gate { position: fixed; inset: 0; display: flex; align-items: center; justify-content: center; flex-direction: column;
+          background: #000 url(assets/embedded/splash.png) center / contain no-repeat; cursor: pointer; z-index: 10; }
+  #gate span { margin-top: 62vh; font: bold 28px "Arial Rounded MT Bold", "Trebuchet MS", sans-serif; color: #fff;
+               background: #e84a9a; padding: 12px 34px; border-radius: 40px; box-shadow: 0 4px 0 #a32a6a; opacity: 0; transition: opacity .3s; }
+  #gate.ready span { opacity: 1; }
+  .wbz-overlay { position: fixed; overflow: hidden; z-index: 6; display: none; }
+  .wbz-overlay-inner { position: absolute; left: 0; top: 0; width: 1366px; height: 768px; transform-origin: 0 0; }
+  .wbz-abs { position: absolute; }
+  .wbz-shade { position: absolute; inset: 0; background: #000; opacity: 0.25; }
+  .wbz-hot { position: absolute; background: transparent; border: 0; padding: 0; cursor: pointer; }
+  .wbz-hot:focus-visible { outline: 3px solid #4a90e2; }
+  .wbz-year { position: absolute; box-sizing: border-box; font: 40px sans-serif; text-align: center; border: 1px solid #000; background: #fff; }
+  .wbz-fp-scroll { position: absolute; inset: 0; overflow-y: auto; overflow-x: hidden; -webkit-overflow-scrolling: touch; }
+  .wbz-fp-page { position: relative; width: 1366px; height: 1173px; }
+  .wbz-video { position: fixed; inset: 0; width: 100%; height: 100%; background: #fff; object-fit: contain; z-index: 5; }
+</style>
+</head>
+<body>
+<canvas id="stage" width="1366" height="768"></canvas>
+<div id="gate"><span>Tap to Play</span></div>
+<script src="js/assets_manifest.js"></script>
+<script src="js/assets_text.js"></script>
+<script src="js/rt_core.js"></script>
+<script src="js/rt_libs.js"></script>
+<script src="js/rt_starling.js"></script>
+<script src="js/game.js"></script>
+<script src="js/rt_post.js"></script>
+<script src="js/main.js"></script>
+</body>
+</html>

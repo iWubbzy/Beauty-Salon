@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:7677a510602235c0dd1c48fa48e64920:a4a3c4a90cd39b1b1e65ae7711bb66ee:b54be2cf9c2ee4027f2a277a5fe51cc1$ -->
+<TextureAtlas imagePath="MainRoom.png">
+    <SubTexture name="DOORWAY_GLOW" x="2" y="772" width="170" height="250"/>
+    <SubTexture name="MAIN_ROOM_BG" x="2" y="2" width="1366" height="768"/>
+    <SubTexture name="MAIN_ROOM_Blue_Door_0001" x="666" y="772" width="162" height="240" frameX="0" frameY="-1" frameWidth="162" frameHeight="242"/>
+    <SubTexture name="MAIN_ROOM_Blue_Door_0002" x="1064" y="772" width="76" height="236" frameX="-85" frameY="-5" frameWidth="162" frameHeight="242"/>
+    <SubTexture name="MAIN_ROOM_Chair01" x="1370" y="2" width="478" height="310" frameX="-1" frameY="-1" frameWidth="480" frameHeight="312"/>
+    <SubTexture name="MAIN_ROOM_Counter" x="1370" y="314" width="380" height="342" frameX="-1" frameY="-1" frameWidth="382" frameHeight="344"/>
+    <SubTexture name="MAIN_ROOM_Green_Door_0001" x="502" y="772" width="162" height="240" frameX="0" frameY="-1" frameWidth="162" frameHeight="242"/>
+    <SubTexture name="MAIN_ROOM_Green_Door_0002" x="986" y="772" width="76" height="236" frameX="-85" frameY="-5" frameWidth="162" frameHeight="242"/>
+    <SubTexture name="MAIN_ROOM_Orange_Door_0001" x="338" y="772" width="162" height="240" frameX="0" frameY="-1" frameWidth="162" frameHeight="242"/>
+    <SubTexture name="MAIN_ROOM_Orange_Door_0002" x="908" y="772" width="76" height="236" frameX="-85" frameY="-5" frameWidth="162" frameHeight="242"/>
+    <SubTexture name="MAIN_ROOM_Pink_Door_0001" x="174" y="772" width="162" height="240" frameX="0" frameY="-1" frameWidth="162" frameHeight="242"/>
+    <SubTexture name="MAIN_ROOM_Pink_Door_0002" x="830" y="772" width="76" height="236" frameX="-85" frameY="-5" frameWidth="162" frameHeight="242"/>
+</TextureAtlas>

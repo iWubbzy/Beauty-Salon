@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:8bb88668bfaa0c9a5d9c8cf884cc14b8:ff76c790b36286806b560a928acd1605:a1c6ed249f6e199ba5a72da44731b4d1$ -->
+<TextureAtlas imagePath="nailAssets_Daizy.png">
+    <SubTexture name="NailRoom_ArmDaizy" x="2" y="2" width="588" height="315" frameX="0" frameY="-7" frameWidth="594" frameHeight="329"/>
+    <SubTexture name="NailRoom_Daizy_Nail01_Long" x="66" y="319" width="63" height="96" frameX="-8" frameY="-2" frameWidth="75" frameHeight="100"/>
+    <SubTexture name="NailRoom_Daizy_Nail01_Shard" x="317" y="319" width="55" height="62" frameX="-8" frameY="-2" frameWidth="75" frameHeight="100"/>
+    <SubTexture name="NailRoom_Daizy_Nail01_Shine" x="59" y="420" width="55" height="72" frameX="-16" frameY="-26" frameWidth="75" frameHeight="100"/>
+    <SubTexture name="NailRoom_Daizy_Nail01_ShineOnly" x="232" y="460" width="13" height="40" frameX="-20" frameY="-39" frameWidth="75" frameHeight="100"/>
+    <SubTexture name="NailRoom_Daizy_Nail01_Short" x="2" y="420" width="55" height="72" frameX="-16" frameY="-26" frameWidth="75" frameHeight="100"/>
+    <SubTexture name="NailRoom_Daizy_Nail02_Long" x="2" y="319" width="62" height="99" frameX="-3" frameY="-1" frameWidth="70" frameHeight="105"/>
+    <SubTexture name="NailRoom_Daizy_Nail02_Shard" x="202" y="319" width="52" height="69" frameX="-13" frameY="-1" frameWidth="70" frameHeight="105"/>
+    <SubTexture name="NailRoom_Daizy_Nail02_Shine" x="174" y="415" width="56" height="71" frameX="-3" frameY="-29" frameWidth="70" frameHeight="105"/>
+    <SubTexture name="NailRoom_Daizy_Nail02_ShineOnly" x="247" y="460" width="30" height="31" frameX="-12" frameY="-36" frameWidth="70" frameHeight="105"/>
+    <SubTexture name="NailRoom_Daizy_Nail02_Short" x="116" y="417" width="56" height="71" frameX="-3" frameY="-29" frameWidth="70" frameHeight="105"/>
+    <SubTexture name="NailRoom_Daizy_Nail03_Long" x="348" y="383" width="96" height="61" frameX="-3" frameY="-2" frameWidth="100" frameHeight="65"/>
+    <SubTexture name="NailRoom_Daizy_Nail03_Shard" x="422" y="446" width="62" height="53" frameX="-37" frameY="-2" frameWidth="100" frameHeight="65"/>
+    <SubTexture name="NailRoom_Daizy_Nail03_Shine" x="348" y="446" width="72" height="55" frameX="-2" frameY="-8" frameWidth="100" frameHeight="65"/>
+    <SubTexture name="NailRoom_Daizy_Nail03_ShineOnly" x="2" y="494" width="42" height="13" frameX="-21" frameY="-12" frameWidth="100" frameHeight="65"/>
+    <SubTexture name="NailRoom_Daizy_Nail03_Short" x="374" y="319" width="72" height="55" frameX="-2" frameY="-8" frameWidth="100" frameHeight="65"/>
+    <SubTexture name="NailRoom_Daizy_Nail04_Long" x="131" y="319" width="69" height="94" frameX="-4" frameY="-3" frameWidth="75" frameHeight="100"/>
+    <SubTexture name="NailRoom_Daizy_Nail04_Shard" x="293" y="389" width="53" height="68" frameX="-5" frameY="-29" frameWidth="75" frameHeight="100"/>
+    <SubTexture name="NailRoom_Daizy_Nail04_Shine" x="256" y="319" width="59" height="68" frameX="-14" frameY="-3" frameWidth="75" frameHeight="100"/>
+    <SubTexture name="NailRoom_Daizy_Nail04_ShineOnly" x="279" y="460" width="33" height="28" frameX="-30" frameY="-38" frameWidth="75" frameHeight="100"/>
+    <SubTexture name="NailRoom_Daizy_Nail04_Short" x="232" y="390" width="59" height="68" frameX="-14" frameY="-3" frameWidth="75" frameHeight="100"/>
+</TextureAtlas>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:7853bb51f929fbe986579a96bbda17d0:5b26bd640aa954f9cbec2e4ae836a9c2:e7769c9d1fcbced0c796a625f847a875$ -->
+<TextureAtlas imagePath="Flowers1x.png">
+    <SubTexture name="Cloud01" x="2" y="2" width="354" height="190" frameX="-1" frameY="-1" frameWidth="356" frameHeight="192"/>
+    <SubTexture name="Cloud02" x="358" y="152" width="314" height="100" frameX="0" frameY="-1" frameWidth="314" frameHeight="102"/>
+    <SubTexture name="Cloud03" x="358" y="2" width="296" height="148" frameX="-2" frameY="-1" frameWidth="300" frameHeight="150"/>
+    <SubTexture name="Flower_0001" x="728" y="2" width="70" height="134" frameX="-19" frameY="-4" frameWidth="100" frameHeight="140"/>
+    <SubTexture name="Flower_0002" x="1100" y="2" width="70" height="130" frameX="-20" frameY="-8" frameWidth="100" frameHeight="140"/>
+    <SubTexture name="Flower_0003" x="948" y="134" width="74" height="120" frameX="-18" frameY="-18" frameWidth="100" frameHeight="140"/>
+    <SubTexture name="Flower_0004" x="870" y="136" width="74" height="118" frameX="-22" frameY="-20" frameWidth="100" frameHeight="140"/>
+    <SubTexture name="Flower_0005" x="1024" y="126" width="72" height="128" frameX="-27" frameY="-10" frameWidth="100" frameHeight="140"/>
+    <SubTexture name="Flower_0006" x="800" y="2" width="68" height="134" frameX="-32" frameY="-4" frameWidth="100" frameHeight="140"/>
+    <SubTexture name="Flower_0007" x="656" y="2" width="70" height="134" frameX="-30" frameY="-4" frameWidth="100" frameHeight="140"/>
+    <SubTexture name="Flower_0008" x="1024" y="2" width="74" height="122" frameX="-5" frameY="-16" frameWidth="100" frameHeight="140"/>
+    <SubTexture name="Flower_0009" x="948" y="2" width="74" height="130" frameX="-1" frameY="-8" frameWidth="100" frameHeight="140"/>
+    <SubTexture name="Flower_0010" x="870" y="2" width="76" height="132" frameX="0" frameY="-6" frameWidth="100" frameHeight="140"/>
+    <SubTexture name="Flower_0011" x="1024" y="2" width="74" height="122" frameX="-5" frameY="-16" frameWidth="100" frameHeight="140"/>
+    <SubTexture name="Flower_0012" x="870" y="136" width="74" height="118" frameX="-22" frameY="-20" frameWidth="100" frameHeight="140"/>
+    <SubTexture name="Flower_0013" x="1024" y="126" width="72" height="128" frameX="-27" frameY="-10" frameWidth="100" frameHeight="140"/>
+    <SubTexture name="Flower_0014" x="800" y="2" width="68" height="134" frameX="-32" frameY="-4" frameWidth="100" frameHeight="140"/>
+    <SubTexture name="Flower_0015" x="656" y="2" width="70" height="134" frameX="-30" frameY="-4" frameWidth="100" frameHeight="140"/>
+    <SubTexture name="Flower_0016" x="1024" y="2" width="74" height="122" frameX="-5" frameY="-16" frameWidth="100" frameHeight="140"/>
+    <SubTexture name="Flower_0017" x="948" y="2" width="74" height="130" frameX="-1" frameY="-8" frameWidth="100" frameHeight="140"/>
+    <SubTexture name="Flower_0018" x="870" y="2" width="76" height="132" frameX="0" frameY="-6" frameWidth="100" frameHeight="140"/>
+    <SubTexture name="Flower_0019" x="1024" y="2" width="74" height="122" frameX="-5" frameY="-16" frameWidth="100" frameHeight="140"/>
+    <SubTexture name="Flower_0020" x="870" y="136" width="74" height="118" frameX="-22" frameY="-20" frameWidth="100" frameHeight="140"/>
+</TextureAtlas>

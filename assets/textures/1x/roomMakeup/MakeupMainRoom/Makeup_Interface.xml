@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:6cc3515fd9df14bd84a225c912b0834c:1/1$ -->
+<TextureAtlas imagePath="Makeup_Interface.png">
+    <SubTexture name="Blue_Hud_Bottom" x="512" y="316" width="1048" height="153"/>
+    <SubTexture name="Brush_Tools" x="1842" y="192" width="89" height="84"/>
+    <SubTexture name="Brush_Tools_Stroke" x="1939" y="172" width="92" height="91"/>
+    <SubTexture name="Circle_White" x="1555" y="252" width="49" height="49"/>
+    <SubTexture name="Large_Off" x="1238" y="2" width="109" height="138"/>
+    <SubTexture name="Large_On" x="1200" y="142" width="109" height="138"/>
+    <SubTexture name="Lipstick_Tools" x="1730" y="264" width="82" height="78"/>
+    <SubTexture name="Lipstick_Tools_Stroke" x="1933" y="265" width="78" height="78"/>
+    <SubTexture name="Medium_Off" x="1127" y="2" width="109" height="138"/>
+    <SubTexture name="Medium_On" x="1089" y="142" width="109" height="138"/>
+    <SubTexture name="Overlay_Circle" x="1503" y="252" width="50" height="50"/>
+    <SubTexture name="Selected_Circle" x="1447" y="252" width="54" height="54"/>
+    <SubTexture name="Small_Off" x="1016" y="2" width="109" height="138"/>
+    <SubTexture name="Small_On" x="978" y="142" width="109" height="138"/>
+    <SubTexture name="Spray_Tools" x="1750" y="192" width="90" height="70"/>
+    <SubTexture name="Spray_Tools_Stroke" x="1639" y="194" width="89" height="73"/>
+    <SubTexture name="Stick_Tools" x="1973" y="2" width="70" height="63"/>
+    <SubTexture name="Stick_Tools_Stroke" x="1814" y="278" width="74" height="70"/>
+    <SubTexture name="Sticker" x="1639" y="122" width="109" height="70"/>
+    <SubTexture name="Sticker_Tools_Stroke" x="1939" y="106" width="105" height="64"/>
+    <SubTexture name="Stickers0001" x="328" y="332" width="182" height="154" frameX="-22" frameY="-8" frameWidth="230" frameHeight="180"/>
+    <SubTexture name="Stickers0002" x="764" y="146" width="212" height="140" frameX="-8" frameY="-16" frameWidth="230" frameHeight="180"/>
+    <SubTexture name="Stickers0003" x="682" y="2" width="158" height="142" frameX="-48" frameY="-12" frameWidth="230" frameHeight="180"/>
+    <SubTexture name="Stickers0004" x="514" y="158" width="168" height="146" frameX="-34" frameY="-13" frameWidth="230" frameHeight="180"/>
+    <SubTexture name="Stickers0005" x="256" y="2" width="130" height="156" frameX="-54" frameY="-8" frameWidth="230" frameHeight="180"/>
+    <SubTexture name="Stickers0006" x="1447" y="128" width="190" height="122" frameX="-25" frameY="-25" frameWidth="230" frameHeight="180"/>
+    <SubTexture name="Stickers0007" x="388" y="2" width="162" height="154" frameX="-34" frameY="-9" frameWidth="230" frameHeight="180"/>
+    <SubTexture name="Stickers0008" x="684" y="146" width="78" height="142" frameX="-71" frameY="-17" frameWidth="230" frameHeight="180"/>
+    <SubTexture name="Stickers0009" x="1349" y="2" width="106" height="124" frameX="-55" frameY="-28" frameWidth="230" frameHeight="180"/>
+    <SubTexture name="Stickers0010" x="158" y="2" width="96" height="168" frameX="-61" frameY="-5" frameWidth="230" frameHeight="180"/>
+    <SubTexture name="Stickers0011" x="552" y="2" width="128" height="144" frameX="-46" frameY="-14" frameWidth="230" frameHeight="180"/>
+    <SubTexture name="Stickers0012" x="842" y="2" width="172" height="138" frameX="-31" frameY="-28" frameWidth="230" frameHeight="180"/>
+    <SubTexture name="Stickers0013" x="1777" y="106" width="160" height="84" frameX="-31" frameY="-53" frameWidth="230" frameHeight="180"/>
+    <SubTexture name="Stickers0014" x="1457" y="2" width="92" height="122" frameX="-67" frameY="-25" frameWidth="230" frameHeight="180"/>
+    <SubTexture name="Stickers0015" x="1311" y="142" width="134" height="128" frameX="-45" frameY="-25" frameWidth="230" frameHeight="180"/>
+    <SubTexture name="Stickers0016" x="2" y="346" width="156" height="160" frameX="-37" frameY="-10" frameWidth="230" frameHeight="180"/>
+    <SubTexture name="Stickers0017" x="2" y="176" width="178" height="168" frameX="-26" frameY="-6" frameWidth="230" frameHeight="180"/>
+    <SubTexture name="Stickers0018" x="342" y="160" width="170" height="154" frameX="-27" frameY="-11" frameWidth="230" frameHeight="180"/>
+    <SubTexture name="Stickers0019" x="160" y="346" width="166" height="158" frameX="-32" frameY="-11" frameWidth="230" frameHeight="180"/>
+    <SubTexture name="Stickers0020" x="182" y="172" width="158" height="158" frameX="-36" frameY="-11" frameWidth="230" frameHeight="180"/>
+    <SubTexture name="Stickers0021" x="1777" y="2" width="194" height="102" frameX="-19" frameY="-30" frameWidth="230" frameHeight="180"/>
+    <SubTexture name="Stickers0022" x="1551" y="2" width="224" height="118" frameX="-3" frameY="-24" frameWidth="230" frameHeight="180"/>
+    <SubTexture name="Stickers0023" x="2" y="2" width="154" height="172" frameX="-36" frameY="-2" frameWidth="230" frameHeight="180"/>
+</TextureAtlas>

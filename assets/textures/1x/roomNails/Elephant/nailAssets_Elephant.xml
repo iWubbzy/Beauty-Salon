@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:3c178042ffb531ecd71aaa0bdefed0a0:38c3372953e499116e2aa26f839dd385:3cd4b8331ea5005bf267e4da65a1847c$ -->
+<TextureAtlas imagePath="nailAssets_Elephant.png">
+    <SubTexture name="NailRoom_ArmElephant" x="2" y="2" width="567" height="590" frameX="0" frameY="-10" frameWidth="581" frameHeight="600"/>
+    <SubTexture name="NailRoom_Elephant_Nail01_Long" x="140" y="594" width="142" height="126" frameX="-6" frameY="0" frameWidth="150" frameHeight="130"/>
+    <SubTexture name="NailRoom_Elephant_Nail01_Shard" x="400" y="594" width="128" height="90" frameX="-20" frameY="-1" frameWidth="150" frameHeight="130"/>
+    <SubTexture name="NailRoom_Elephant_Nail01_Shine" x="324" y="714" width="130" height="104" frameX="-5" frameY="-22" frameWidth="150" frameHeight="130"/>
+    <SubTexture name="NailRoom_Elephant_Nail01_ShineOnly" x="288" y="960" width="22" height="58" frameX="-17" frameY="-28" frameWidth="150" frameHeight="130"/>
+    <SubTexture name="NailRoom_Elephant_Nail01_Short" x="288" y="844" width="130" height="114" frameX="-5" frameY="-12" frameWidth="150" frameHeight="130"/>
+    <SubTexture name="NailRoom_Elephant_Nail02_Long" x="2" y="594" width="136" height="132" frameX="-1" frameY="-4" frameWidth="140" frameHeight="140"/>
+    <SubTexture name="NailRoom_Elephant_Nail02_Shard" x="222" y="722" width="100" height="120" frameX="-37" frameY="-4" frameWidth="140" frameHeight="140"/>
+    <SubTexture name="NailRoom_Elephant_Nail02_Shine" x="284" y="594" width="114" height="118" frameX="-2" frameY="-18" frameWidth="140" frameHeight="140"/>
+    <SubTexture name="NailRoom_Elephant_Nail02_ShineOnly" x="312" y="960" width="34" height="52" frameX="-16" frameY="-23" frameWidth="140" frameHeight="140"/>
+    <SubTexture name="NailRoom_Elephant_Nail02_Short" x="170" y="859" width="116" height="122" frameX="-2" frameY="-14" frameWidth="140" frameHeight="140"/>
+    <SubTexture name="NailRoom_Elephant_Nail03_Long" x="2" y="728" width="117" height="131" frameX="-3" frameY="-3" frameWidth="125" frameHeight="135"/>
+    <SubTexture name="NailRoom_Elephant_Nail03_Shard" x="2" y="861" width="63" height="131" frameX="-57" frameY="-2" frameWidth="125" frameHeight="135"/>
+    <SubTexture name="NailRoom_Elephant_Nail03_Shine" x="121" y="728" width="99" height="129" frameX="-2" frameY="-5" frameWidth="125" frameHeight="135"/>
+    <SubTexture name="NailRoom_Elephant_Nail03_ShineOnly" x="170" y="983" width="47" height="39" frameX="-18" frameY="-13" frameWidth="125" frameHeight="135"/>
+    <SubTexture name="NailRoom_Elephant_Nail03_Short" x="67" y="861" width="101" height="129" frameX="-2" frameY="-5" frameWidth="125" frameHeight="135"/>
+</TextureAtlas>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:95210d07ddee2144d75cbbb887672e1e:c9c5bb0c07e56756bf18ba2b3e21502d:e7a35c38b8ee64fdb0470e10ad93e940$ -->
+<TextureAtlas imagePath="nailAssets_OldLady.png">
+    <SubTexture name="NailRoom_ArmOldLady" x="2" y="2" width="641" height="388" frameX="0" frameY="-7" frameWidth="647" frameHeight="402"/>
+    <SubTexture name="NailRoom_OldLady_Nail01_Long" x="645" y="214" width="66" height="129" frameX="-7" frameY="-1" frameWidth="80" frameHeight="131"/>
+    <SubTexture name="NailRoom_OldLady_Nail01_Shard" x="114" y="392" width="56" height="101" frameX="-8" frameY="0" frameWidth="80" frameHeight="131"/>
+    <SubTexture name="NailRoom_OldLady_Nail01_Shine" x="443" y="392" width="62" height="91" frameX="-11" frameY="-39" frameWidth="80" frameHeight="131"/>
+    <SubTexture name="NailRoom_OldLady_Nail01_ShineOnly" x="645" y="58" width="14" height="53" frameX="-15" frameY="-55" frameWidth="80" frameHeight="131"/>
+    <SubTexture name="NailRoom_OldLady_Nail01_Short" x="379" y="392" width="62" height="91" frameX="-11" frameY="-39" frameWidth="80" frameHeight="131"/>
+    <SubTexture name="NailRoom_OldLady_Nail02_Long" x="2" y="392" width="110" height="106" frameX="0" frameY="-3" frameWidth="110" frameHeight="110"/>
+    <SubTexture name="NailRoom_OldLady_Nail02_Shard" x="915" y="2" width="98" height="72" frameX="-11" frameY="-3" frameWidth="110" frameHeight="110"/>
+    <SubTexture name="NailRoom_OldLady_Nail02_Shine" x="591" y="392" width="82" height="82" frameX="0" frameY="-27" frameWidth="110" frameHeight="110"/>
+    <SubTexture name="NailRoom_OldLady_Nail02_ShineOnly" x="507" y="476" width="46" height="32" frameX="-13" frameY="-33" frameWidth="110" frameHeight="110"/>
+    <SubTexture name="NailRoom_OldLady_Nail02_Short" x="507" y="392" width="82" height="82" frameX="0" frameY="-27" frameWidth="110" frameHeight="110"/>
+    <SubTexture name="NailRoom_OldLady_Nail03_Long" x="675" y="2" width="133" height="70" frameX="-1" frameY="-4" frameWidth="135" frameHeight="80"/>
+    <SubTexture name="NailRoom_OldLady_Nail03_Shard" x="810" y="2" width="103" height="60" frameX="-31" frameY="-4" frameWidth="135" frameHeight="80"/>
+    <SubTexture name="NailRoom_OldLady_Nail03_Shine" x="903" y="76" width="91" height="68" frameX="-2" frameY="-6" frameWidth="135" frameHeight="80"/>
+    <SubTexture name="NailRoom_OldLady_Nail03_ShineOnly" x="172" y="490" width="53" height="16" frameX="-25" frameY="-11" frameWidth="135" frameHeight="80"/>
+    <SubTexture name="NailRoom_OldLady_Nail03_Short" x="810" y="64" width="91" height="68" frameX="-2" frameY="-6" frameWidth="135" frameHeight="80"/>
+    <SubTexture name="NailRoom_OldLady_Nail04_Long" x="675" y="74" width="67" height="138" frameX="-3" frameY="-1" frameWidth="75" frameHeight="140"/>
+    <SubTexture name="NailRoom_OldLady_Nail04_Shard" x="310" y="392" width="67" height="96" frameX="-3" frameY="-43" frameWidth="75" frameHeight="140"/>
+    <SubTexture name="NailRoom_OldLady_Nail04_Shine" x="241" y="392" width="67" height="96" frameX="-3" frameY="-1" frameWidth="75" frameHeight="140"/>
+    <SubTexture name="NailRoom_OldLady_Nail04_ShineOnly" x="645" y="2" width="25" height="54" frameX="-10" frameY="-32" frameWidth="75" frameHeight="140"/>
+    <SubTexture name="NailRoom_OldLady_Nail04_Short" x="172" y="392" width="67" height="96" frameX="-3" frameY="-1" frameWidth="75" frameHeight="140"/>
+</TextureAtlas>

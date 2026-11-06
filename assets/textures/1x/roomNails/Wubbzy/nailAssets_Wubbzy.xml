@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:6a913fec9fd81407b255c686adff3466:d5bcbeffed5356aebc6d2b189779eb2c:594edc19c42ca182e12d71a175cf3edd$ -->
+<TextureAtlas imagePath="nailAssets_Wubbzy.png">
+    <SubTexture name="NailRoom_ArmWubbzy" x="2" y="2" width="675" height="386" frameX="0" frameY="-7" frameWidth="677" frameHeight="396"/>
+    <SubTexture name="NailRoom_Wubbzy_Nail01_Long" x="778" y="2" width="90" height="65" frameX="-4" frameY="-4" frameWidth="100" frameHeight="75"/>
+    <SubTexture name="NailRoom_Wubbzy_Nail01_Shard" x="679" y="317" width="58" height="63" frameX="-4" frameY="-3" frameWidth="100" frameHeight="75"/>
+    <SubTexture name="NailRoom_Wubbzy_Nail01_Shine" x="739" y="317" width="66" height="57" frameX="-28" frameY="-12" frameWidth="100" frameHeight="75"/>
+    <SubTexture name="NailRoom_Wubbzy_Nail01_ShineOnly" x="66" y="480" width="32" height="29" frameX="-31" frameY="-34" frameWidth="100" frameHeight="75"/>
+    <SubTexture name="NailRoom_Wubbzy_Nail01_Short" x="682" y="382" width="66" height="57" frameX="-28" frameY="-12" frameWidth="100" frameHeight="75"/>
+    <SubTexture name="NailRoom_Wubbzy_Nail02_Long" x="679" y="191" width="66" height="124" frameX="-18" frameY="-2" frameWidth="100" frameHeight="130"/>
+    <SubTexture name="NailRoom_Wubbzy_Nail02_Shard" x="66" y="390" width="62" height="88" frameX="-19" frameY="-3" frameWidth="100" frameHeight="130"/>
+    <SubTexture name="NailRoom_Wubbzy_Nail02_Shine" x="196" y="390" width="64" height="86" frameX="-20" frameY="-40" frameWidth="100" frameHeight="130"/>
+    <SubTexture name="NailRoom_Wubbzy_Nail02_ShineOnly" x="514" y="462" width="20" height="48" frameX="-25" frameY="-52" frameWidth="100" frameHeight="130"/>
+    <SubTexture name="NailRoom_Wubbzy_Nail02_Short" x="130" y="390" width="64" height="86" frameX="-20" frameY="-40" frameWidth="100" frameHeight="130"/>
+    <SubTexture name="NailRoom_Wubbzy_Nail03_Long" x="398" y="390" width="114" height="80" frameX="-5" frameY="-5" frameWidth="120" frameHeight="90"/>
+    <SubTexture name="NailRoom_Wubbzy_Nail03_Shard" x="682" y="2" width="94" height="60" frameX="-25" frameY="-4" frameWidth="120" frameHeight="90"/>
+    <SubTexture name="NailRoom_Wubbzy_Nail03_Shine" x="598" y="390" width="82" height="70" frameX="-5" frameY="-15" frameWidth="120" frameHeight="90"/>
+    <SubTexture name="NailRoom_Wubbzy_Nail03_ShineOnly" x="2" y="483" width="48" height="20" frameX="-22" frameY="-20" frameWidth="120" frameHeight="90"/>
+    <SubTexture name="NailRoom_Wubbzy_Nail03_Short" x="514" y="390" width="82" height="70" frameX="-5" frameY="-15" frameWidth="120" frameHeight="90"/>
+    <SubTexture name="NailRoom_Wubbzy_Nail04_Long" x="682" y="64" width="66" height="125" frameX="-7" frameY="0" frameWidth="80" frameHeight="125"/>
+    <SubTexture name="NailRoom_Wubbzy_Nail04_Shard" x="2" y="390" width="62" height="91" frameX="-7" frameY="-34" frameWidth="80" frameHeight="125"/>
+    <SubTexture name="NailRoom_Wubbzy_Nail04_Shine" x="330" y="390" width="66" height="85" frameX="-7" frameY="-1" frameWidth="80" frameHeight="125"/>
+    <SubTexture name="NailRoom_Wubbzy_Nail04_ShineOnly" x="750" y="64" width="20" height="49" frameX="-12" frameY="-26" frameWidth="80" frameHeight="125"/>
+    <SubTexture name="NailRoom_Wubbzy_Nail04_Short" x="262" y="390" width="66" height="85" frameX="-7" frameY="-1" frameWidth="80" frameHeight="125"/>
+</TextureAtlas>

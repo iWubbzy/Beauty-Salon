@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:0c1d927950a44bcb42d9a3c61130cf50:603e31097518e68412a1846df22b8846:e42ed024fbc421c3dbd6abbae7a363d0$ -->
+<TextureAtlas imagePath="HairAssets.png">
+    <SubTexture name="ARM" x="2" y="175" width="630" height="124" frameX="-4" frameY="-3" frameWidth="634" frameHeight="130"/>
+    <SubTexture name="MAIN_HAIR_CHAIROL" x="634" y="175" width="140" height="32" frameX="0" frameY="-4" frameWidth="140" frameHeight="40"/>
+    <SubTexture name="MenuBackground" x="2" y="2" width="887" height="171"/>
+    <SubTexture name="Shampoo_bottle" x="891" y="2" width="100" height="204" frameX="0" frameY="-3" frameWidth="100" frameHeight="210"/>
+    <SubTexture name="bubble" x="776" y="175" width="98" height="98" frameX="-1" frameY="-1" frameWidth="100" frameHeight="100"/>
+    <SubTexture name="bubbleOld" x="634" y="209" width="50" height="46" frameX="-5" frameY="-2" frameWidth="60" frameHeight="50"/>
+    <SubTexture name="hairdryer" x="2" y="627" width="260" height="260" frameX="-2" frameY="-2" frameWidth="264" frameHeight="264"/>
+    <SubTexture name="hose" x="634" y="275" width="262" height="350" frameX="-4" frameY="0" frameWidth="270" frameHeight="350"/>
+    <SubTexture name="water_drop" x="686" y="209" width="42" height="38" frameX="-2" frameY="-4" frameWidth="46" frameHeight="46"/>
+</TextureAtlas>

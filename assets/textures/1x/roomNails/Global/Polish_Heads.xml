@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:0937dfd2b1cfc31944de282e971fa4cb:1/1$ -->
+<TextureAtlas imagePath="Polish_Heads.png">
+    <SubTexture name="PolishCircle_BLUE" x="2" y="58" width="26" height="26"/>
+    <SubTexture name="PolishCircle_GREEN" x="30" y="30" width="26" height="26"/>
+    <SubTexture name="PolishCircle_ORANGE" x="2" y="30" width="26" height="26"/>
+    <SubTexture name="PolishCircle_PINK" x="30" y="2" width="26" height="26"/>
+    <SubTexture name="PolishCircle_PURPLE" x="2" y="2" width="26" height="26"/>
+</TextureAtlas>

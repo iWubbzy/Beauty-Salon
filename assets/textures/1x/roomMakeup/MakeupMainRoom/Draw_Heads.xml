@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:0b1d59266b551d86d2fc0be90a9b623e:1/1$ -->
+<TextureAtlas imagePath="Draw_Heads.png">
+    <SubTexture name="Brush_Draw" x="2" y="2" width="134" height="92" frameX="-15" frameY="-14" frameWidth="164" frameHeight="124"/>
+    <SubTexture name="Eraser_Draw" x="138" y="2" width="96" height="55" frameX="-2" frameY="0" frameWidth="100" frameHeight="55"/>
+    <SubTexture name="Pencil_Draw" x="138" y="59" width="44" height="43" frameX="-5" frameY="-6" frameWidth="54" frameHeight="55"/>
+    <SubTexture name="Stick_Draw" x="2" y="96" width="12" height="12" frameX="-1" frameY="-1" frameWidth="14" frameHeight="14"/>
+</TextureAtlas>

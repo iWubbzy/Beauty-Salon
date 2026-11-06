@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:7ba7eca59cdfd9365d1f9c65a3551875:bb0dab59646259032259e9490542b9d7:5fb71c22b8d03c690af89fa93bfa3e6a$ -->
+<TextureAtlas imagePath="nailAssets_Kooky.png">
+    <SubTexture name="NailRoom_ArmKooky" x="2" y="2" width="623" height="365" frameX="0" frameY="-6" frameWidth="629" frameHeight="381"/>
+    <SubTexture name="NailRoom_Kooky_Nail01_Long" x="464" y="369" width="88" height="76" frameX="-1" frameY="-3" frameWidth="90" frameHeight="80"/>
+    <SubTexture name="NailRoom_Kooky_Nail01_Shard" x="340" y="451" width="56" height="56" frameX="-2" frameY="-3" frameWidth="90" frameHeight="80"/>
+    <SubTexture name="NailRoom_Kooky_Nail01_Shine" x="587" y="445" width="64" height="60" frameX="-25" frameY="-19" frameWidth="90" frameHeight="80"/>
+    <SubTexture name="NailRoom_Kooky_Nail01_ShineOnly" x="267" y="455" width="20" height="36" frameX="-31" frameY="-31" frameWidth="90" frameHeight="80"/>
+    <SubTexture name="NailRoom_Kooky_Nail01_Short" x="521" y="447" width="64" height="60" frameX="-25" frameY="-19" frameWidth="90" frameHeight="80"/>
+    <SubTexture name="NailRoom_Kooky_Nail02_Long" x="2" y="369" width="57" height="118" frameX="-4" frameY="-2" frameWidth="65" frameHeight="120"/>
+    <SubTexture name="NailRoom_Kooky_Nail02_Shard" x="464" y="447" width="55" height="62" frameX="-5" frameY="-1" frameWidth="65" frameHeight="120"/>
+    <SubTexture name="NailRoom_Kooky_Nail02_Shine" x="283" y="369" width="55" height="84" frameX="-6" frameY="-36" frameWidth="65" frameHeight="120"/>
+    <SubTexture name="NailRoom_Kooky_Nail02_ShineOnly" x="242" y="455" width="23" height="42" frameX="-12" frameY="-44" frameWidth="65" frameHeight="120"/>
+    <SubTexture name="NailRoom_Kooky_Nail02_Short" x="226" y="369" width="55" height="84" frameX="-6" frameY="-36" frameWidth="65" frameHeight="120"/>
+    <SubTexture name="NailRoom_Kooky_Nail03_Long" x="133" y="369" width="91" height="104" frameX="-2" frameY="0" frameWidth="95" frameHeight="110"/>
+    <SubTexture name="NailRoom_Kooky_Nail03_Shard" x="726" y="2" width="67" height="66" frameX="-26" frameY="-1" frameWidth="95" frameHeight="110"/>
+    <SubTexture name="NailRoom_Kooky_Nail03_Shine" x="653" y="2" width="71" height="74" frameX="-2" frameY="-30" frameWidth="95" frameHeight="110"/>
+    <SubTexture name="NailRoom_Kooky_Nail03_ShineOnly" x="61" y="485" width="41" height="24" frameX="-18" frameY="-35" frameWidth="95" frameHeight="110"/>
+    <SubTexture name="NailRoom_Kooky_Nail03_Short" x="554" y="369" width="71" height="74" frameX="-2" frameY="-30" frameWidth="95" frameHeight="110"/>
+    <SubTexture name="NailRoom_Kooky_Nail04_Long" x="61" y="369" width="70" height="114" frameX="-4" frameY="-2" frameWidth="80" frameHeight="120"/>
+    <SubTexture name="NailRoom_Kooky_Nail04_Shard" x="795" y="2" width="60" height="68" frameX="-14" frameY="-48" frameWidth="80" frameHeight="120"/>
+    <SubTexture name="NailRoom_Kooky_Nail04_Shine" x="402" y="369" width="60" height="80" frameX="-3" frameY="-3" frameWidth="80" frameHeight="120"/>
+    <SubTexture name="NailRoom_Kooky_Nail04_ShineOnly" x="226" y="455" width="14" height="46" frameX="-42" frameY="-28" frameWidth="80" frameHeight="120"/>
+    <SubTexture name="NailRoom_Kooky_Nail04_Short" x="340" y="369" width="60" height="80" frameX="-3" frameY="-3" frameWidth="80" frameHeight="120"/>
+</TextureAtlas>

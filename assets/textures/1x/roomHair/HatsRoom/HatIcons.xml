@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:f9b304335b7ddcb4eea58a9f1a0b003e:5cf725d836fbf9627dbd6617174fd2db:0058884e60d34769dbd2835e403491a7$ -->
+<TextureAtlas imagePath="HatIcons.png">
+    <SubTexture name="hat1" x="1096" y="128" width="231" height="117"/>
+    <SubTexture name="hat10" x="874" y="2" width="194" height="126"/>
+    <SubTexture name="hat11" x="2" y="2" width="82" height="138"/>
+    <SubTexture name="hat12" x="248" y="2" width="138" height="131"/>
+    <SubTexture name="hat13" x="1070" y="2" width="190" height="124"/>
+    <SubTexture name="hat14" x="739" y="2" width="133" height="128"/>
+    <SubTexture name="hat15" x="1262" y="2" width="166" height="122"/>
+    <SubTexture name="hat2" x="388" y="2" width="188" height="130"/>
+    <SubTexture name="hat3" x="578" y="2" width="159" height="128"/>
+    <SubTexture name="hat4" x="372" y="135" width="225" height="109"/>
+    <SubTexture name="hat5" x="599" y="132" width="232" height="112"/>
+    <SubTexture name="hat6" x="2" y="142" width="186" height="94"/>
+    <SubTexture name="hat7" x="86" y="2" width="160" height="135"/>
+    <SubTexture name="hat8" x="874" y="130" width="220" height="114"/>
+    <SubTexture name="hat9" x="190" y="139" width="180" height="76"/>
+</TextureAtlas>

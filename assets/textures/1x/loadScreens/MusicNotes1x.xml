@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:1f290a5e0a85c9fee1e6fd54a5bcbee0:90a8822dcf7555e3f6a7e6465559c353:5c6f44ec56ce1c25b93099787968d7ee$ -->
+<TextureAtlas imagePath="MusicNotes1x.png">
+    <SubTexture name="Note01" x="2" y="2" width="96" height="118" frameX="-2" frameY="-1" frameWidth="100" frameHeight="120"/>
+    <SubTexture name="Note02" x="100" y="2" width="94" height="118" frameX="-3" frameY="-1" frameWidth="100" frameHeight="120"/>
+    <SubTexture name="Note03" x="320" y="2" width="56" height="100" frameX="-2" frameY="0" frameWidth="60" frameHeight="100"/>
+    <SubTexture name="Note04" x="196" y="2" width="122" height="116" frameX="-2" frameY="-2" frameWidth="126" frameHeight="120"/>
+    <SubTexture name="Note05" x="378" y="2" width="30" height="82" frameX="0" frameY="-1" frameWidth="30" frameHeight="84"/>
+    <SubTexture name="Note06" x="378" y="86" width="30" height="30" frameX="-2" frameY="-2" frameWidth="34" frameHeight="34"/>
+</TextureAtlas>
